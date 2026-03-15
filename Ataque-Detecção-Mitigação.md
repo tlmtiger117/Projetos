@@ -9,7 +9,7 @@
 
 - Ferramentas:
    - Nmap(Network Mapper): Ferramenta de Recon ativo, tem contato direto com o alvo(manda e recebe dados).
-   - Utilizada nesse caso para sumular um tráfego de um atacante.
+                            Utilizada nesse caso para sumular um tráfego de um atacante.
      
         
    - Wireshark(Sniffer/captura de pacotes): Recon Passivo, apenas observa o tráfego da rede(observa/detecta).
