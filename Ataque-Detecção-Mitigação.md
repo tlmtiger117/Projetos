@@ -9,7 +9,7 @@
 
 - Ferramentas:
    - Nmap(Network Mapper): Ferramenta de Recon ativo, tem contato direto com o alvo(manda e recebe dados).
-                            Utilizada nesse caso para sumular um tráfego de um atacante.
+                            Utilizada nesse caso para simular um tráfego de um atacante.
      
         
    - Wireshark(Sniffer/captura de pacotes): Recon Passivo, apenas observa o tráfego da rede(observa/detecta).
@@ -19,7 +19,7 @@
 - 1° Pentester/Invasor: Nesse caso, eu simulei um scan com delay entre cada probe enviada, mas fazendo um scan
      sequancia(Padrão nmap).
 
-   - [!] O Nmap por ser um programa automatizado, cria pacotes com mesmo tamanho, sendo um bom indicativo de que seja um
+   - [!] O Nmap por ser um programa automatizado, cria pacotes com os mesmos tamanhos, sendo um bom indicativo de que seja um
           possível scan.
      
    - [!] Geralmente o Nmap usa a mesma porta para enviar as probes num scan sequancial(21,22,23...).
