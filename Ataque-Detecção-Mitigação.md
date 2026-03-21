@@ -50,8 +50,7 @@
    - Nmap: https://github.com/tlmtiger117/Nmap-Network-Mapper-
    - Wireshark: https://github.com/tlmtiger117/Wireshark-Sniffers-de-Rede  
    - Iptables/firewall: https://github.com/tlmtiger117/Firewall
-
-# Atualização Do Dia 21/03/26
+     
 
 - [!] Atualização: Com os meus estudos atuais de Logs(mesmos sendo o básico do básico), sei que isso poderia alterar o fluxo
       desse projeto pra algo positivo. O fluxo atualizado seria:
